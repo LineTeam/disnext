@@ -1,3 +1,3 @@
 # disnext
 
-Скоро..
+Новый Fork discord уже скоро..
